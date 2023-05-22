@@ -1,0 +1,42 @@
+site_name: Flos Solis
+theme: 
+  name: material
+  icon:
+    logo: material/library
+  palette:
+    - scheme: slate # 夜间模式
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至日间模式
+    - scheme: default # 日间模式
+      primary: indigo # 上方的
+      accent: orange # 链接等可交互元件的高亮色
+      toggle:
+        icon: material/weather-night # 图标
+        name: 切换至夜间模式 # 鼠标悬浮提示
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  language: zh
+
+
+nav:
+  - 主页: index.md
+
+extra_css:
+  - mkdocs/css/no-footer.css # 不使用底部的翻页
+extra:
+  homepage: https://flossolis.github.io/
+  social: # icons
+    - icon: fontawesome/brands/github
+      link: https://github.com/FlosSolis
+      name: GitHub | Flos Solis
+## [bottom-left corner]
+copyright: Copyright &copy; 2023 Flos Solis # 左下角的版权声明
