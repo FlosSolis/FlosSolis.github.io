@@ -29,7 +29,6 @@ theme:
 
 nav:
   - 主页: index.md
-     - 随笔:
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
