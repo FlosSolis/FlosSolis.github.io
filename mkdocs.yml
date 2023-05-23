@@ -32,7 +32,7 @@ nav:
   - 随笔:
     - ESSAY/index.md
     - 随笔记:
-      - ESSAY/Jottings/2023-5-23.md
+      - ESSAY/Jottings/2305.md
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
