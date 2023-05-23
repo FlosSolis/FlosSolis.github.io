@@ -29,6 +29,10 @@ theme:
 
 nav:
   - 主页: index.md
+  - 随笔:
+    - ESSAY/index.md
+    - 随笔记:
+      - ESSAY/Jottings/2023-5-23.md
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
