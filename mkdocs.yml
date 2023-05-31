@@ -36,6 +36,8 @@ nav:
       - ESSAY/Jottings/2306.md
     - 文章:
       - ESSAY/Articles/summary_2305.md
+    - 未发表:
+
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
