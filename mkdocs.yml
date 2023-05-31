@@ -37,7 +37,6 @@ nav:
     - 文章:
     - 未发布:
 
-
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
 extra:
