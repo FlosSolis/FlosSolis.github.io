@@ -40,6 +40,10 @@ nav:
       - ESSAY/Articles/压力的由来与解决办法.md
     - 未发表:
       - ESSAY/Unpublished/Explain.md
+  - 转载:
+    - Reversal/index.md
+    - 沟通:
+      - Reversal/Communication/howToAskQuestionsTheSmartWay.md  
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
