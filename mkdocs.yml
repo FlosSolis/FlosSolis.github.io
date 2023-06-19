@@ -43,7 +43,11 @@ nav:
   - 转载:
     - Reversal/index.md
     - 沟通:
-      - Reversal/Communication/howToAskQuestionsTheSmartWay.md  
+      - Reversal/Communication/howToAskQuestionsTheSmartWay.md
+  - 数学学习笔记:
+    - Math/index.md
+    - 高数:
+      - Math/advancedMathematics/Calculations/correctionOfWrongQuestions.md
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
