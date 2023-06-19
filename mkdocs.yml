@@ -47,7 +47,9 @@ nav:
   - 数学学习笔记:
     - Math/index.md
     - 高数:
-      - Math/advancedMathematics/Calculations/correctionOfWrongQuestions.md
+      - 三大计算: Math/advancedMathematics/Calculations/correctionOfWrongQuestions.md
+  - CS学习笔记:
+    - CS/index.md
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
