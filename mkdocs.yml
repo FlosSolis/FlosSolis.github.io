@@ -51,6 +51,8 @@ nav:
       - 三大计算: Math/advancedMathematics/Calculations/correctionOfWrongQuestions.md
   - CS学习笔记:
     - CS/index.md
+    - MySQL:
+      - mysql笔记: CS/MySQL/mysqlFrank.md 
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
