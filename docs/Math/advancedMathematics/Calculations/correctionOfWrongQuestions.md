@@ -479,7 +479,7 @@ $$
 
 - 看到绝对值函数$\Longrightarrow$不可导点的个数
 
-  - $y=\left |x \right | $在$x=0$处连续但不可导，但$y=x\left | x \right |$在$x = 0$处可导
+  - $y = \left | x \right |$在$x=0$处连续但不可导，但$y=x\left | x \right |$在$x = 0$处可导
 
   - $y = \left | x-a \right |$在$x=a$处连续但不可导，但$y=(x-a)\left | x-a \right |$在$x = a$处可导
 
