@@ -487,8 +487,8 @@ $$
 
     
 
-- $$
-  \begin{equation}
+$$
+\begin{equation}
   
   y=
   
@@ -501,7 +501,7 @@ $$
   \end{cases}
   
   \end{equation}
-  $$
+$$
 
   - $\alpha>0$，$f(x)$在$x=0$处连续；
   - $\alpha>1$，$f(x)$在$x =0$处可导；
