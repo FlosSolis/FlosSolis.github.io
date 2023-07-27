@@ -217,7 +217,6 @@ $$
   - 13、15、16、14、18、19、20、21、23、24、25
 
 
-
 ## 1.6极限的应用之一：连续与间断点
 
 > 纯纯没脑子啊，基本上全错了
@@ -253,7 +252,6 @@ $$
   2. 再判断是不是题中需要的点
 
 
-
 ## 1.7极限的应用之二：求渐近线
 
 ### 错题&错因
@@ -286,7 +284,6 @@ $$
   - $\dfrac{1}{1+x}=1-x+x^2-x^3+...+(-1)^nx^n$，$\left | x\right |<1$
   - $\dfrac{1}{1-x}=1+x+x^2+x^3+...+x^n$，$\left | x\right |<1$
 
-​      
 
 # 第二章：求导数
 
@@ -490,22 +487,13 @@ $$
 
 - $$
   \begin{equation}
-  
   y=
-  
   \begin{cases}
-  
-  x^\alpha sin\frac{1}{x^\beta}&\mbox{$x\ne 0$}\\
-  
-  0                             &\mbox{$x = 0$}
-  
-  \end{cases}
-  
+  x^\alpha sin\frac{1}{x^\beta}&\mbox{$x\ne 0$}\\  
+  0 &\mbox{$x = 0$}
+  \end{cases} 
   \end{equation}
   $$
-  
-  
-  - 
   - $\alpha>0$，$f(x)$在$x=0$处连续；
   - $\alpha>1$，$f(x)$在$x =0$处可导；
   - $\alpha > \beta+1$，$f'(x)$在$x = 0$连续；
