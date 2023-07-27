@@ -503,6 +503,9 @@ $$
   
   \end{equation}
   $$
+  
+  
+  - 
   - $\alpha>0$，$f(x)$在$x=0$处连续；
   - $\alpha>1$，$f(x)$在$x =0$处可导；
   - $\alpha > \beta+1$，$f'(x)$在$x = 0$连续；
