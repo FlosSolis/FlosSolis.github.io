@@ -490,9 +490,9 @@ $$
   \end{cases} 
   \end{equation}
   $$
-  - $\alpha>0$，$f(x)$在$x=0$处连续；
-  - $\alpha>1$，$f(x)$在$x =0$处可导；
-  - $\alpha > \beta+1$，$f'(x)$在$x = 0$连续；
+    - $\alpha>0$，$f(x)$在$x=0$处连续；
+    - $\alpha>1$，$f(x)$在$x =0$处可导；
+    - $\alpha > \beta+1$，$f'(x)$在$x = 0$连续；
   
 - $f(x)$存在$\Longrightarrow f(x)$连续$\Longrightarrow f(x)$可导$\Longrightarrow f'(x)$连续$\Longrightarrow f^{''}(x)$存在$\Longrightarrow f^{''}(x)$连续，从左到右，满足后面一定满足前面，满足前面不一定满足后面
 
