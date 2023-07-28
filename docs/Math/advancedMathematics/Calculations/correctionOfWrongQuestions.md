@@ -656,10 +656,10 @@ $$
 #### 知识点
 
 - 归纳法的一些公式：
-  - $(e^{ax+b})^{(n)}= a^ne^{ax+b}$
-  - $[sin(ax+b)]^{n}= a^n sin(ax+b+\frac{\pi}{2}\times n)$
-  - $[cos(ax+b)]^{n}= a^n cos(ax+b+\frac{\pi}{2}\times n)$
-  - $(\frac{1}{ax+b})^{n}=\frac{(-1)^n a_n n!}{(ax+b)^n}$
-  - $[\ln(ax+b)]^{(n)}=\frac{(-1)^{n-1} a^n (n-1)!}{(ax+b)^n}$
-  - $[f(x) \pm g(x) ]^{(n)}=f^{(n)}(x) \pm g^{(n)}(x)$
+    - $(e^{ax+b})^{(n)}= a^ne^{ax+b}$
+    - $[sin(ax+b)]^{n}= a^n sin(ax+b+\frac{\pi}{2}\times n)$
+    - $[cos(ax+b)]^{n}= a^n cos(ax+b+\frac{\pi}{2}\times n)$
+    - $(\frac{1}{ax+b})^{n}=\frac{(-1)^n a_n n!}{(ax+b)^n}$
+    - $[\ln(ax+b)]^{(n)}=\frac{(-1)^{n-1} a^n (n-1)!}{(ax+b)^n}$
+    - $[f(x) \pm g(x) ]^{(n)}=f^{(n)}(x) \pm g^{(n)}(x)$
 
