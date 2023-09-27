@@ -74,7 +74,7 @@ $\sin(\frac{\pi}{2}-α)=$<br/>$\cos(\frac{\pi}{2}-α) =$<br/>$\tan(\frac{\pi}{2}
 
 ### 两角和与差
 
-$\cos{(\alpha + \beta)} = $
+$\cos(\alpha + \beta) = $
 
 $\cos{(\alpha - \beta)} = $
 
