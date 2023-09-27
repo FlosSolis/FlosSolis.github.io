@@ -55,8 +55,8 @@ nav:
     - 高数:
       - 三大计算: Math/advancedMathematics/Calculations/correctionOfWrongQuestions.md
       - 公式: 
-         - Math/advancedMathematics/Formula/Formla.md
-         - Math/advancedMathematics/Formula/FormlaTest.md
+        - Math/advancedMathematics/Formula/Formla.md
+        - Math/advancedMathematics/Formula/FormlaTest.md
   - CS学习笔记:
     - CS/index.md
     - MySQL:
