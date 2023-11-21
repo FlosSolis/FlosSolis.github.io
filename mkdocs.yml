@@ -1,4 +1,4 @@
-site_name: Flos Solis
+site_name:Flos Solis
 theme: 
   name: material
   icon:
@@ -26,11 +26,10 @@ theme:
     - content.code.copy
   language: zh
 
-
 nav:
   - 主页: index.md
  - 转载:
-    - Reversal/index.md
+   - Reversal/index.md
     - 沟通:
       - Reversal/Communication/howToAskQuestionsTheSmartWay.md
   - 数学学习笔记:
