@@ -1,5 +1,5 @@
 site_name: Flos Solis
-theme: 
+theme:
   name: material
   icon:
     logo: material/library
@@ -26,6 +26,7 @@ theme:
     - content.code.copy
   language: zh
 
+
 nav:
   - 主页: index.md
  - 转载:
@@ -43,6 +44,7 @@ nav:
     - CS/index.md
     - MySQL:
       - mysql笔记: CS/MySQL/mysqlFrank.md 
+
 
 # [Extensions]
 plugins:
