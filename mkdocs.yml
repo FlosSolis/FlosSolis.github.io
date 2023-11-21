@@ -1,5 +1,5 @@
 site_name: Flos Solis
-theme:
+theme: 
   name: material
   icon:
     logo: material/library
@@ -29,8 +29,28 @@ theme:
 
 nav:
   - 主页: index.md
- - 转载:
-   - Reversal/index.md
+  - 随笔:
+    - ESSAY/index.md
+    - 随笔记:
+      - ESSAY/Jottings/2305.md
+      - ESSAY/Jottings/2306.md
+      - ESSAY/Jottings/2307.md
+      - ESSAY/Jottings/2308.md
+      - ESSAY/Jottings/2309.md
+      - ESSAY/Jottings/2310.md
+      - ESSAY/Jottings/mood.md
+      - ESSAY/Jottings/毕业歌会有感.md
+      - ESSAY/Jottings/青岛旅游.md
+      - ESSAY/Jottings/summary_2306.md
+      - ESSAY/Jottings/summary_2307.md
+      - ESSAY/Jottings/summary_2308.md
+      - ESSAY/Jottings/summary_2310.md
+    - 文章:
+      - ESSAY/Articles/压力的由来与解决办法.md
+    - 未发表:
+      - ESSAY/Unpublished/Explain.md
+  - 转载:
+    - Reversal/index.md
     - 沟通:
       - Reversal/Communication/howToAskQuestionsTheSmartWay.md
   - 数学学习笔记:
@@ -43,7 +63,7 @@ nav:
   - CS学习笔记:
     - CS/index.md
     - MySQL:
-      - mysql笔记: CS/MySQL/mysqlFrank.md 
+      - mysql笔记: CS/MySQL/mysqlFrank.md
 
 
 # [Extensions]
