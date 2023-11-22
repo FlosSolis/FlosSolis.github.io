@@ -31,6 +31,10 @@ nav:
   - 主页: index.md
   - 随笔:
     - ESSAY/index.md
+    - 学习日志:
+      -ESSAY/Log/LearningLog.md
+    - 恋爱日记:
+      -ESSAY/Log/LoveDiary.md
   - 转载:
     - Reversal/index.md
     - 沟通:
