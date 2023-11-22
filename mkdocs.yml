@@ -32,9 +32,9 @@ nav:
   - 随笔:
     - ESSAY/index.md
     - 学习日志:
-      -ESSAY/Log/LearningLog.md
+      - ESSAY/Log/LearningLog.md
     - 恋爱日记:
-      -ESSAY/Log/LoveDiary.md
+      - ESSAY/Log/LoveDiary.md
   - 转载:
     - Reversal/index.md
     - 沟通:
