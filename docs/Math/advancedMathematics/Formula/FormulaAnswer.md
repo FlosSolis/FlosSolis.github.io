@@ -61,9 +61,10 @@ $y=\csc x$
 <details>
     <summary>上述函数的图像</summary>
     <p>
-        <img src= "./FormulaAnswer/三角函数图像.jpg" >
+        <img src= "./FormulaAnswer/TrigonometricFunction.jpg" >
     </p>
 </details>
+
 
 
 
@@ -172,7 +173,7 @@ ${\mathrm{arccot} {x}}$
 <details>
     <summary>所有反三角函数的定义域、值域、图像：</summary> 
     <p>
-        <img src=" ./FormulaAnswer/反三角函数图像.jpg">
+        <img src=" ./FormulaAnswer/InverseTrigonometricFunction.jpg">
     </p>
 </details>
 
