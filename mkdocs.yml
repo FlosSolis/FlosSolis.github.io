@@ -42,7 +42,7 @@ nav:
     - 高数:
       - 三大计算: Math/advancedMathematics/Calculations/correctionOfWrongQuestions.md
       - 公式: 
-        - Math/advancedMathematics/Formula/Formula.md
+        - Math/advancedMathematics/Formula/FormulaAnswer.md
         - Math/advancedMathematics/Formula/formulaTest.md
   - CS学习笔记:
     - CS/index.md
