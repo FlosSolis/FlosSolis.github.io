@@ -125,17 +125,17 @@ $\sin\alpha\sin\beta = -\frac{1}{2}[\cos{(\alpha + \beta)} - \cos{(\alpha - \bet
 
 ### 二倍角公式
 
-$\sin{2\alpha} = 2\sin\alpha\cos\alpha = \frac{2}{\tan\alpha + \cot\alpha}$
+$\sin{2\alpha} = $
 
-$\cos{2\alpha} = \cos^2{\alpha} - \sin^2{\alpha} = 2\cos^2{\alpha} - 1 = 1 - 2\sin^2{\alpha}$
+$\cos{2\alpha} = $
 
-$\tan{2\alpha} = \frac{2\tan\alpha}{1 - \tan^2{\alpha}}$
+$\tan{2\alpha} = $
 
-$\cot{2\alpha} = \frac{\cot^2{\alpha} - 1}{2\cot\alpha}$
+$\cot{2\alpha} = $
 
-$\sec{2\alpha} = \frac{\sec^2{\alpha}}{1 - \tan^2{\alpha}}$
+$\sec{2\alpha} = $
 
-$\csc{2\alpha} = \frac{1}{2\sin\alpha\cos\alpha} = \frac{1}{2}\sec\alpha\csc\alpha$
+$\csc{2\alpha} = $
 
 
 
@@ -228,9 +228,9 @@ $\int{\sqrt{a^2 - x^2}dx} = $
 
 ## 麦克劳林公式
 
-$\sin x = $
+$\sin {x}$
 
-$\arcsin x = $
+$\arcsin x$
 
 $\tan x = $
 
