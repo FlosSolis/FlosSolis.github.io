@@ -228,50 +228,50 @@ $\int{\sqrt{a^2 - x^2}dx} = $
 
 ## 麦克劳林公式
 
-$\sin {x}$
+$\sin {x} =$
 
-$\arcsin x$
+$\arcsin x =$
 
-$\tan x = $
+$\tan x =$
 
-$\arctan x = $
+$\arctan x =$
 
-$\cos x = $
+$\cos x =$
 
-$\ln(1+x) = $
+$\ln(1+x) =$
 
-$e^x = $
+$e^x =$
 
-$(1+x)^a = $
+$(1+x)^a =$
 
-$\frac{1}{1+x} = $
+$\frac{1}{1+x} =$
 
-$\frac{1}{1-x} = $
+$\frac{1}{1-x} =$
 
-$\sqrt{1+x} =  $
+$\sqrt{1+x} =$
 
-$\frac{1}{\sqrt {1+x}} = $
+$\frac{1}{\sqrt {1+x}} =$
 
 ### 重要差函数
 
-$x - \sin{x} \sim $
+$x - \sin{x} \sim$
 
-$\arcsin{x} - x \sim $
+$\arcsin{x} - x \sim$
 
-$1 - \cos{x} \sim $
+$1 - \cos{x} \sim$
 
-$x - \ln{(1+x)} \sim $
+$x - \ln{(1+x)} \sim$
 
-$\tan{x} - x \sim $
+$\tan{x} - x \sim$
 
-$e^x - 1 \sim $
+$e^x - 1 \sim$
 
-$e^x - 1 - x \sim $
+$e^x - 1 - x \sim$
 
-$\tan{x} - \sin{x} \sim $
+$\tan{x} - \sin{x} \sim$
 
-推广：$\tan{f(x)} - \sin{f(x)} \sim $
+推广：$\tan{f(x)} - \sin{f(x)} \sim$
 
-$\arctan{x} - \arcsin{x} \sim $
+$\arctan{x} - \arcsin{x} \sim$
 
-> 注意：$f(x) \pm g(x) = cx^k + o(x^k)$ ，而 $f(x) \pm g(x) \sim $ 。
+> 注意：$f(x) \pm g(x) = cx^k + o(x^k)$ ，而 $f(x) \pm g(x) \sim$ 。
