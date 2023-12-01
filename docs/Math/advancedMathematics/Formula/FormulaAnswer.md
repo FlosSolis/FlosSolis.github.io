@@ -86,11 +86,11 @@ $\sin(\frac{\pi}{2}-α)=\cos α$<br/>$\cos(\frac{\pi}{2}-α) =\sin α$<br/>$\tan
 
 ### 两角和与差
 
-$\cos(\alpha + \beta) =\cosα\cosβ-\sinα\sinβ $
+$\cos(\alpha + \beta) =\cosα\cosβ-\sinα\sinβ$
 
-$\cos{(\alpha - \beta)} =\cos{\alpha}\cos{\beta}+\sin{\alpha}\sin{\beta} $
+$\cos{(\alpha - \beta)} =\cos{\alpha}\cos{\beta}+\sin{\alpha}\sin{\beta}$
 
-$\sin{(\alpha + \beta)} =\sin{\alpha}\cos{\beta}+cos{\alpha}\sin{\beta} $
+$\sin{(\alpha + \beta)} =\sin{\alpha}\cos{\beta}+cos{\alpha}\sin{\beta}$
 
 $\sin{(\alpha - \beta)} = \sin{\alpha}\cos{\beta}-\cos{\alpha}\sin{\beta}$
 
@@ -227,6 +227,8 @@ $\int{\sqrt{x^2 - a^2}dx} = \frac{x}{2}\sqrt{x^2 - a^2} - \frac{a^2}{2}\ln|{x+\s
 
 $\int{\sqrt{a^2 - x^2}dx} = \frac{x}{2}\sqrt{a^2 - x^2} + \frac{a^2}{2}\arcsin{\frac{x}{a}} + C$
 
+$\int{\sec^3{x}dx} = \frac{1}{2}(\sec{x}\tan{x}+\ln|\sec{x}+\tan{x}|)$
+
 
 
 ## 麦克劳林公式
@@ -251,7 +253,7 @@ $\frac{1}{1+x} = 1 - x + x^2 - x^3 + o(x^3) = \sum\limits_{n=1}^{\infty}(-1)^nx^
 
 $\frac{1}{1-x} = 1 + x + x^2 + x^3 + o(x^3) = \sum\limits_{n=1}^{\infty}x^n$
 
-$\sqrt{1+x} = 1 + \frac{1}{2}x - \frac{1}{2 \cdot 4}x^2 + \frac{1 \cdot 3}{2 \cdot 4 \cdot 6}x^3 - \frac{1 \cdot 3 \cdot 5}{2 \cdot 4 \cdot 6 \cdot 8}x^4 + o(x^4) $
+$\sqrt{1+x} = 1 + \frac{1}{2}x - \frac{1}{2 \cdot 4}x^2 + \frac{1 \cdot 3}{2 \cdot 4 \cdot 6}x^3 - \frac{1 \cdot 3 \cdot 5}{2 \cdot 4 \cdot 6 \cdot 8}x^4 + o(x^4)$
 
 $\frac{1}{\sqrt {1+x}} = 1 - \frac{1}{2}x + \frac{1}{2 \cdot 4}x^2 - \frac{1 \cdot 3}{2 \cdot 4 \cdot 6}x^3 + \frac{1 \cdot 3 \cdot 5}{2 \cdot 4 \cdot 6 \cdot 8}x^4 + o(x^4)$
 
