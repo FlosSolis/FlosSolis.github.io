@@ -547,20 +547,13 @@ $$
   - 举例：$y= x \left |x(x-2)\right | \Longrightarrow$函数在$x = 0$处可导，在$x = 2$处连续
 
 - $$
-\begin{equation}
-      
+  \begin{equation}  
   y=
-  
   \begin{cases}
-  
-  x^\alpha sin\frac{1}{x^\beta}&\mbox{$x\ne 0$}\\  
-  
+  x^\alpha sin\frac{1}{x^\beta}&\mbox{$x\ne 0$}\\ 
   0 &\mbox{$x = 0$}
-  
   \end{cases} 
-  
   \end{equation}
-    
   $$
   
   
@@ -570,7 +563,7 @@ $$
   - $\alpha>1$，$f(x)$在$x =0$处可导；
   
   - $\alpha > \beta+1$，$f'(x)$在$x = 0$连续；
-
+  
 - $f(x)$存在$\Longrightarrow f(x)$连续$\Longrightarrow f(x)$可导$\Longrightarrow f'(x)$连续$\Longrightarrow f^{''}(x)$存在$\Longrightarrow f^{''}(x)$连续，从左到右，满足后面一定满足前面，满足前面不一定满足后面
 
 - $\lim\limits_{x \to 0} \frac{f(x)}{x}=A \Longrightarrow f(0)=0 , f'(0)=A$
@@ -764,7 +757,7 @@ $$
 
   - 利用$\sin^2{x} + \cos^2{x} = 1$进行降幂
 
-- 强化50，碰到$x^x$,把它变成$\mathrm{e}^{x\ln{x}} $来做
+- 强化50，碰到$x^x$,把它变成$\mathrm{e}^{x\ln{x}}$来做
 
 - 强化59，碰到形如$\int\frac{dx}{(a\sin{x}+b\cos{x})^2}$
 
