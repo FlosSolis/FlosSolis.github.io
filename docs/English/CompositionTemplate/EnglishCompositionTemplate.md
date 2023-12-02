@@ -89,7 +89,8 @@ For more details, you could refer to the attachment below. （28 词）
     
     ③ <font color = red>个人喜欢：</font>
     中文
-    I personally find it attractive / interesting / beneficial / necessary to do sth.
+    I personally find it attractive / interesting / beneficial / necessary to do sth
+
 3. <font color = red>怎么办（建议意见）：</font>
    
     ① <font color = red>端正认识：</font>
