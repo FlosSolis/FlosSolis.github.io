@@ -104,15 +104,13 @@ For more details, you could refer to the attachment below. （28 词）
     应该及时制定合理、可行的计划并优先执行
     a practical and reasonable plan should be promptly carried out and remain high on your agenda.
 
-  ### 中文模板
-
-test
+### 中文模板
 
   
 
-  ### 英文模板
+### 英文模板
 
-test
+
 
 ## 考研—大作文
 
