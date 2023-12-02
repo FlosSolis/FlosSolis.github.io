@@ -50,6 +50,10 @@ nav:
     - CS/index.md
     - MySQL:
       - mysql笔记: CS/MySQL/mysqlFrank.md
+  - 英语学习笔记:
+    - 英语作文:
+      - 考研作文模版:
+        - English/CompositionTemplate/EnglishCompositionTemplate.md
 
 
 # [Extensions]
