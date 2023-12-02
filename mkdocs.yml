@@ -31,10 +31,9 @@ nav:
   - 主页: index.md
   - 随笔:
     - ESSAY/index.md
-    - 学习日志:
+    - 日志:
       - ESSAY/Log/LearningLog.md
-    - 生活日志:
-      - ESSAY/Log/LifeLog.md
+      - ESSAY/Log/LifeDaily.md
   - 转载:
     - Reversal/index.md
     - 沟通:
