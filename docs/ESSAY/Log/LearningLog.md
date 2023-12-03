@@ -31,8 +31,4 @@
 ### 2023年12月03日
 
 - 快疯了，为了寻找折叠图片的办法，疯狂看 ==Material for MkDocs== 。就是没找到解决办法,看吐了只能说，最后是把图片的文件夹 建在上层文件中才解决
-- ==This was marked==
-- 测试==This was marked==啊哈哈哈
-- ^^This was inserted^^
-- ~~This was deleted~~
 - 英语作文
