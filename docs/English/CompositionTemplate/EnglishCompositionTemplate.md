@@ -207,7 +207,7 @@ You should write about 100 words on the ANSWER SHEET
 <details>
     <summary>例文：</summary>
     <p>
-        <img src ="./EnglishCompositionTemplate/small_2017_1.jpg"></a>
+        <img src ="EnglishCompositionTemplate/small_2017_1.jpg"></a>
     </p>
 </details>
 

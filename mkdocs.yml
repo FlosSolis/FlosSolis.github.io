@@ -1,6 +1,7 @@
 site_name: Flos Solis
 theme: 
   name: material
+  custom_dir: overrides
   icon:
     logo: material/library
     admonition:
@@ -51,18 +52,18 @@ nav:
     - MySQL:
       - mysql笔记: CS/MySQL/mysqlFrank.md
   - 英语学习笔记:
+    - English/index.md
     - 英语作文:
       - English/CompositionTemplate/EnglishCompositionTemplate.md
 
 
 # [Extensions]
 plugins:
-  - search: # 现在还不支持中文搜索 支持之后可以设置语言
-    # insider已经支持中文的分词搜索了 https://squidfunk.github.io/mkdocs-material/blog/2022/chinese-search-support/
-      lang:
+  - search: # 搜索 
+      lang:  #还不懂这个lang是干嘛的
         - en
         - ja
-  - tags # 给单篇文章添加标签 https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/?h=tags
+  - tags # 给单篇文章添加标签
 markdown_extensions:
   - pymdownx.arithmatex: # latex支持
       generic: true
@@ -72,15 +73,34 @@ markdown_extensions:
   - pymdownx.highlight: # 代码块高亮
       # linenums: true # 显示行号
       # auto_title: true # 显示编程语言名称
-  - pymdownx.superfences # 代码块高亮插件
+      anchor_linenums: true
+      pygments_lang_class: true
   - meta # 支持Markdown文件上方自定义标题标签等
-  - admonition # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
-  - pymdownx.details # admonition需要
-  - pymdownx.superfences #admonition需要
-  - def_list #列表
+    # Admonitions, also known as call-outs
+  - admonition 
+  - pymdownx.details 
+  - pymdownx.superfences # 代码块高亮插件
+    # 列表
+  - def_list 
   - pymdownx.tasklist:
       custom_checkbox: true
-
+  # 图标
+  - pymdownx.emoji: 
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  #从赵总那边当来的，折叠图片显示不出来的问题还没解决
+  - pymdownx.critic 
+  - pymdownx.caret 
+  - pymdownx.keys 
+  - pymdownx.mark 
+  - pymdownx.tilde
+  - pymdownx.snippets: # 术语拓展
+  - pymdownx.inlinehilite
+  - abbr # 工具提示
+  
 extra_javascript:
   # latex支持
   - mkdocs/javascripts/mathjax.js
