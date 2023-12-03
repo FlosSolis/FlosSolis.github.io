@@ -204,12 +204,15 @@ You should write about 100 words on the ANSWER SHEET
         <font color = orange>是否必须需要对方回信?</font> 	否
     </p>
 </details>
+
+
 <details>
     <summary>例文：</summary>
     <p>
-        <img src ="EnglishCompositionTemplate/small_2017_1.jpg"></a>
+        <img src ="../../pic/small_2017_1.jpg"></a>
     </p>
 </details>
+
 
 
 

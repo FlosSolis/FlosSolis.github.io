@@ -77,25 +77,25 @@ markdown_extensions:
       pygments_lang_class: true
   - meta # 支持Markdown文件上方自定义标题标签等
     # Admonitions, also known as call-outs
-  - admonition 
-  - pymdownx.details 
+  - admonition
+  - pymdownx.details
   - pymdownx.superfences # 代码块高亮插件
     # 列表
-  - def_list 
+  - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
   # 图标
-  - pymdownx.emoji: 
+  - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       options:
         custom_icons:
           - overrides/.icons
   #从赵总那边当来的，折叠图片显示不出来的问题还没解决
-  - pymdownx.critic 
-  - pymdownx.caret 
-  - pymdownx.keys 
-  - pymdownx.mark 
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.snippets: # 术语拓展
   - pymdownx.inlinehilite
