@@ -67,37 +67,42 @@ For more details, you could refer to the attachment below. （28 词）
 三元：是什么（说明介绍）、为什么（原因利弊）、怎么办（建议意见）
 
 1. <font color =red>是什么（以说明介绍活动信息为主）：</font>
-   - <font color =red>时间、地点：</font> <br/><font color =orange>
-    他将于下周日在主楼举行/它位于主楼里（旁边）/我们下周日在主楼集合并前往目的地（请保证届时你有时间参加）</font><br/>
-     <font color =orange> it will be held / it is located</font> in (beside) the Main Building (next Sunday)/ we will gather in the Main Building next Sunday and set off to the spot (, and please make sure you are available then).
-    - <font color = red>出席人物：</font><br/>
+
+    1. <font color =red>时间、地点：</font> <br/><font color =orange>
+       他将于下周日在主楼举行/它位于主楼里（旁边）/我们下周日在主楼集合并前往目的地（请保证届时你有时间参加）</font><br/>
+        <font color =orange> it will be held / it is located</font> in (beside) the Main Building (next Sunday)/ we will gather in the Main Building next Sunday and set off to the spot (, and please make sure you are available then).
+    2. <font color = red>出席人物：</font><br/>
        我们的工作人员届时将会为你提供一些必要的<font color = orange>培训/介绍/引导</font> <br/>
-      our staff will be there to provide you (with) necessary <font color = orange>orientation/guidance</font>.
-    - <font color = red>着装要求：</font> <br/>
-    出席活动时，着装应该<font color = orange>得体/暖和/朴素</font><br/>
-       it is highly recommended to be<font color = orange> properly/warmly/plainly
-       </font> dressed for the occasion.
+       our staff will be there to provide you (with) necessary <font color = orange>orientation/guidance</font>.
+    3. <font color = red>着装要求：</font> <br/>
+       出席活动时，着装应该<font color = orange>得体/暖和/朴素</font><br/>
+        it is highly recommended to be<font color = orange> properly/warmly/plainly
+        </font> dressed for the occasion.
+
 2. <font color =red>为什么（分析利弊）:</font>
-    - <font color =red> 权威认可：</font>
-        - ta获得了权威机构的官方<font color =orange>奖项/资质/认可</font>...<br/>
-        have (has) an official <font color = orange>award / qualification / recognition</font> from the authority.
-        - 被授予联合国<font color = orange>物质/非物质文化</font>遗产称号。<br/>
-        are (is) awarded with the title of <font color = orange>Material / Intangible Cultural Heritage</font> from the United Nations.
-    - <font color =red>群众基础：</font><br/>
-      <font color =orange>人民群众/很多社交媒体平台</font>对ta<font color =orange>很欢迎/评价很高/很关注担心</font><br/>
-      enjoy (enjoys) a widespread <font color =orange>popularity / reputation / concern</font><font color =orange> among 人民群众/on multiple social platforms</font>.
-    -  <font color = red>个人喜欢：</font><br/>我个人觉得xx很有<font color = orange>吸引力/有趣/有益/必要</font><br/>
-      I personally find it <font color= orange>attractive / interesting / beneficial / necessary</font> to do sth.
+   
+    1. <font color =red> 权威认可：</font>
+         - ta获得了权威机构的官方<font color =orange>奖项/资质/认可</font>...<br/>
+           have (has) an official <font color = orange>award / qualification / recognition</font> from the authority.
+         - 被授予联合国<font color = orange>物质/非物质文化</font>遗产称号。<br/>
+           are (is) awarded with the title of <font color = orange>Material / Intangible Cultural Heritage</font> from the United Nations.
+    2. <font color =red>群众基础：</font><br/>
+         <font color =orange>人民群众/很多社交媒体平台</font>对ta<font color =orange>很欢迎/评价很高/很关注担心</font><br/>
+         enjoy (enjoys) a widespread <font color =orange>popularity / reputation / concern</font><font color =orange> among 人民群众/on multiple social platforms</font>.
+    
+    3. <font color = red>个人喜欢：</font><br/>我个人觉得xx很有<font color = orange>吸引力/有趣/有益/必要</font><br/>
+        I personally find it <font color= orange>attractive / interesting / beneficial / necessary</font> to do sth.
+    
 3. <font color = red>怎么办（建议意见）：</font>
-- <font color = red>端正认识：</font><br/>
-      端正认识，并建立起关于xx的正确价值观是首要任务<br/>
-      it’s advisable to put things into perspective and establish correct values about sth primarily.
-    - <font color = red>实践经验：</font><br/>
-      你可以在知乎社区上寻找该领域的<font color = orange>相关/先进/国际/历史</font>经验<br/>
-      you could look for <font color = orange>relevant / advanced / international / historical</font> experience in this aspect on Zhihu Community.
-    - <font color = red>知行合一：</font><br/>
-      应该及时制定合理、可行的计划并优先执行<br/>
-      a practical and reasonable plan should be promptly carried out and remain high on your agenda.
+    1. <font color = red>端正认识：</font><br/>
+          端正认识，并建立起关于xx的正确价值观是首要任务<br/>
+          it’s advisable to put things into perspective and establish correct values about sth primarily.
+    2. <font color = red>实践经验：</font><br/>
+        你可以在知乎社区上寻找该领域的<font color = orange>相关/先进/国际/历史</font>经验<br/>
+        you could look for <font color = orange>relevant / advanced / international / historical</font> experience in this aspect on Zhihu Community.
+    3. <font color = red>知行合一：</font><br/>
+        应该及时制定合理、可行的计划并优先执行<br/>
+        a practical and reasonable plan should be promptly carried out and remain high on your agenda.
 
 ### 中文模板
 
@@ -177,6 +182,35 @@ Dear International Volunteer.<br/>
        <p align="right" >Yours truly,<br> Li Ming</p> 
     </p>
 </details>
+
+#### 2017英一
+
+<details>
+    <summary>题目：</summary>
+    <p>
+        You are to write an email to James Cook, a newly-arrived Australian professor, recommending some tourist attractions in your city. Please give reasons for your recommendation.<br/>
+You should write about 100 words on the ANSWER SHEET
+    </p>
+</details>
+
+<details>
+    <summary>分析：</summary>
+    <p>
+        <font color = orange>对方是谁?</font> 	James Cook, a newly-arrived Australian professor<br/>
+        <font color = orange>是不是notice?</font>	不是<br/>
+        <font color = orange>次要目的是什么?</font>	无<br/>
+        <font color = orange>主要目的是什么?</font> 	recommending some tourist attractions in your city<br/>
+        <font color = orange>信件的实质内容涉及三元中的哪些元素?</font> 	 为什么选ta<br/>
+        <font color = orange>是否必须需要对方回信?</font> 	否
+    </p>
+</details>
+<details>
+    <summary>例文：</summary>
+    <p>
+        <img src ="./EnglishCompositionTemplate/small_2017_1.jpg"></a>
+    </p>
+</details>
+
 
 
 
