@@ -64,7 +64,14 @@ plugins:
         - en
         - ja
   - tags # 给单篇文章添加标签
+    
 markdown_extensions:
+  #从赵总那边当来的，折叠图片显示不出来的问题还没解决
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.arithmatex: # latex支持
       generic: true
   - attr_list # 给图片后面添加{width="300"}设置大小
@@ -91,12 +98,6 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
-  #从赵总那边当来的，折叠图片显示不出来的问题还没解决
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
   - pymdownx.snippets: # 术语拓展
   - pymdownx.inlinehilite
   - abbr # 工具提示
