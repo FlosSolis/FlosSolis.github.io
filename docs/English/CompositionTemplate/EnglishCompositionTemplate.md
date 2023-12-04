@@ -321,6 +321,40 @@ Dear<font color = red> Xx</font>,
 
     ![small_2012_2](./pic/small_2012_2.jpg)
 
+#### 杂糅型—道歉信：
+
+!!! tip "2018"
+
+    ??? info "解析："
+        ![small_2018](./pic/small_2018.jpg)
+    
+    **英一**
+    ??? question  "题目："
+    
+        You have just come back from Canada and found a music CD in yourluggage that you forgot to return to Bob, your landlord there. Write him a letter to 1) make a apology, and 2) suggest a solution.<br/>
+        You should write about 100 words on the ANSWER SHEET
+    
+    ??? example "例文："
+    
+        ![small_2018_1](./pic/small_2018_1.jpg)
+    
+    **英二**
+    ??? question  "题目："
+    
+        Suppose you have to cancel your travel plan and will not be able to visit Professor 
+        Smith. Write him an email to 1) apologize and explain the situation, and 2) suggest
+        a future meeting. <br/>
+        You should write about 100 words on the ANSWER SHEET
+    
+    ??? example "例文："
+        ![small_2018_2](./pic/small_2018_2.jpg)
+
+
+​    
+
+
+
+
 
 
 
