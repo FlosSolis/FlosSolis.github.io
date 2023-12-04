@@ -352,8 +352,16 @@ Dear<font color = red> Xx</font>,
 
 ​    
 
+#### 告示回函：2023年大纲新增例题
+
+??? question  "题目："
+
+    ![small_example_2023](./pic/small_example_2023.jpg)
 
 
+??? example "例文："
+
+    ![small_example_essay_2023](./pic/small_example_essay_2023.jpg)
 
 
 
