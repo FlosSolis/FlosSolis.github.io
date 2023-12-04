@@ -172,7 +172,7 @@ Dear<font color = red> Xx</font>,
 
     Dear International Volunteer.<br/>
             I am writing this letter to <font color= orange>answer your inquiry and specify the details of the “ Aiding Rural Primary Schools”project</font>.<font color= red size=5>/</font>I am writing this letter to <font color = orange >offer you some information about the “AidingRural Primary Schoolsproject</font>.<br/>
-            Regarding the project, there are several points I would mostly like tomention. First of all, we will gather in the Main Building next Sunday andset off to the <font color= orange>rural primary school</font>. What's more, our staff will be there to provide you with some necessary orientation. In addition, it is highly recommended to be <font color= blue>plainly</font> dressed for the occasion. For more details<font color= orange>(about the project)</font>, you could refer to the attachment below.<br/>
+            Regarding the project, there are several points I would mostly like tomention. First of all, we will gather in the Main Building next Sunday andset off to the <font color= orange>rural primary school</font>. What's more, our staff will be there to provide you with some necessary orientation. In addition, it is highly recommended to be <font color= orange>plainly</font> dressed for the occasion. For more details<font color= orange>(about the project)</font>, you could refer to the attachment below.<br/>
             I would be glad if you found the information mentioned abovehelpful. Should you have any further questions, please feel free to contactme.<br/>
            <p align="right" >Yours truly,<br> Li Ming</p> 
         </p>
