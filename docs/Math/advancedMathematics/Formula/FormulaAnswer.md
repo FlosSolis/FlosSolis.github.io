@@ -162,11 +162,11 @@ $\tan\alpha = \frac{2\tan\frac{a}{2}}{1-\tan^2\frac{a}{2}}$
 
 ## 反三角函数
 
-$\arcsin{x} $
+$\arcsin{x}$
 
 $\arccos{x}$ 
 
-$  \arctan{x}$
+$\arctan{x}$
 
 ${\mathrm{arccot} {x}}$  
 
