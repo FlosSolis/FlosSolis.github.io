@@ -17,3 +17,25 @@ tags on separate lines and adding new lines between the tags and the content.
 - A^T^A
 
 ++ctrl+alt+del++
+
+???+ questiuon "test"
+
+    你有什么问题吗？
+
+
+??? note
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+???+ note
+    你好
+
+??? info
+
+    nihao
+
+??? question
+
+    ![test](./pic/test.jpg)

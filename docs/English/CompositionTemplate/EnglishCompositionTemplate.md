@@ -151,67 +151,175 @@ Dear<font color = red> Xx</font>,
 
 ### 例题：
 
-#### 2019英一
+#### 说明介绍型：2019英一
 
-<details>
-    <summary>题目：</summary>
-    <p>
-        Suppose you are working for the “Aiding Rural Primary Schools?project of your university. Write an email to answer the inquiry from aninternational student volunteer, specifying the details of the project.<br/>
-You should write about 100 words on the ANSWER SHEET.
-    </p>
-</details>
+??? question "题目："
 
-<details>
-    <summary>分析：</summary>
-    <p>
-        <font color = orange>对方是谁?</font> 	international student volunteer<br/>
-        <font color = orange>是不是notice?</font>	不是<br/>
-        <font color = orange>次要目的是什么?</font>	无<br/>
-        <font color = orange>主要目的是什么?</font> 	answer the inquiry, specifying the details of the project<br/>
-        <font color = orange>信件的实质内容涉及三元中的哪些元素?</font> 	是什么?<br/>
+    Suppose you are working for the “Aiding Rural Primary Schools?project of your university. Write an email to answer the inquiry from aninternational student volunteer, specifying the details of the project.<br/>
+    You should write about 100 words on the ANSWER SHEET
+
+
+??? info "解析："
+
+    <font color = orange>对方是谁?</font> 	international student volunteer<br/>
+    <font color = orange>是不是notice?</font>	不是<br/>
+    <font color = orange>次要目的是什么?</font>	无<br/>
+    <font color = orange>主要目的是什么?</font> 	answer the inquiry, specifying the details of the project<br/>
+    <font color = orange>信件的实质内容涉及三元中的哪些元素?</font> 	是什么?<br/>
+    <font color = orange>是否必须需要对方回信?</font> 	否
+
+??? example "例文："
+
+    Dear International Volunteer.<br/>
+            I am writing this letter to <font color= orange>answer your inquiry and specify the details of the “ Aiding Rural Primary Schools”project</font>.<font color= red size=5>/</font>I am writing this letter to <font color = orange >offer you some information about the “AidingRural Primary Schoolsproject</font>.<br/>
+            Regarding the project, there are several points I would mostly like tomention. First of all, we will gather in the Main Building next Sunday andset off to the <font color= orange>rural primary school</font>. What's more, our staff will be there to provide you with some necessary orientation. In addition, it is highly recommended to be <font color= blue>plainly</font> dressed for the occasion. For more details<font color= orange>(about the project)</font>, you could refer to the attachment below.<br/>
+            I would be glad if you found the information mentioned abovehelpful. Should you have any further questions, please feel free to contactme.<br/>
+           <p align="right" >Yours truly,<br> Li Ming</p> 
+        </p>
+    </details>
+
+
+
+#### 分析利弊型：2017英一
+
+??? question  "题目："
+
+    You are to write an email to James Cook, a newly-arrived Australian professor, recommending some tourist attractions in your city. Please give reasons for your recommendation.<br/>
+    You should write about 100 words on the ANSWER SHEET
+
+??? info "解析："
+
+     <font color = orange>对方是谁?</font> 	James Cook, a newly-arrived Australian professor <br/>
+        <font color = orange>是不是notice?</font>	不是 <br/>
+        <font color = orange>次要目的是什么?</font>	无 <br/>
+        <font color = orange>主要目的是什么?</font> 	recommending some tourist attractions in your city <br/>
+        <font color = orange>信件的实质内容涉及三元中的哪些元素?</font> 	 为什么选ta <br/>
         <font color = orange>是否必须需要对方回信?</font> 	否
-    </p>
-</details>
-<details>
-    <summary>例文：</summary>
-    <p>
-Dear International Volunteer.<br/>
-        I am writing this letter to <font color= orange>answer your inquiry and specify the details of the “ Aiding Rural Primary Schools”project</font>.<font color= red size=5>/</font>I am writing this letter to <font color = orange >offer you some information about the “AidingRural Primary Schoolsproject</font>.<br/>
-        Regarding the project, there are several points I would mostly like tomention. First of all, we will gather in the Main Building next Sunday andset off to the <font color= orange>rural primary school</font>. What's more, our staff will be there to provide you with some necessary orientation. In addition, it is highly recommended to be <font color= blue>plainly</font> dressed for the occasion. For more details<font color= orange>(about the project)</font>, you could refer to the attachment below.<br/>
-        I would be glad if you found the information mentioned abovehelpful. Should you have any further questions, please feel free to contactme.<br/>
-       <p align="right" >Yours truly,<br> Li Ming</p> 
-    </p>
-</details>
-
-#### 2017英一
-
-<details>
-    <summary>题目：</summary>
-    <p>
-        You are to write an email to James Cook, a newly-arrived Australian professor, recommending some tourist attractions in your city. Please give reasons for your recommendation.<br/>
-You should write about 100 words on the ANSWER SHEET
-    </p>
-</details>
-
-<details>
-    <summary>分析：</summary>
-    <p>
-        <font color = orange>对方是谁?</font> 	James Cook, a newly-arrived Australian professor<br/>
-        <font color = orange>是不是notice?</font>	不是<br/>
-        <font color = orange>次要目的是什么?</font>	无<br/>
-        <font color = orange>主要目的是什么?</font> 	recommending some tourist attractions in your city<br/>
-        <font color = orange>信件的实质内容涉及三元中的哪些元素?</font> 	 为什么选ta<br/>
-        <font color = orange>是否必须需要对方回信?</font> 	否
-    </p>
-</details>
 
 
-<details>
-    <summary>例文：</summary>
-    <p>
-        <img src ="../../pic/small_2017_1.jpg"></a>
-    </p>
-</details>
+??? example "例文："
+
+    ![small_2017_1](./pic/small_2017_1.jpg)
+
+
+
+#### 建议意见型：2016英二
+
+??? question  "题目："
+
+    Suppose you won a translation contest and your friend, Jack, wrote an email to
+    congratulate you and ask for advice on translation. Write him a reply to 1) thank him,
+    and 2) give your advice.<br/>
+    You should write about 100 words on the ANSWER SHEET
+
+??? info "解析："
+
+    <font color = orange>对方是谁?</font> 	your friend, Jack <br/>
+        <font color = orange>是不是notice?</font>	不是 <br/>
+        <font color = orange>次要目的是什么?</font>	thank him <br/>
+        <font color = orange>主要目的是什么?</font> 	give your advice an translation <br/>
+        <font color = orange>信件的实质内容涉及三元中的哪些元素?</font> 	 怎么办 <br/>
+        <font color = orange>是否必须需要对方回信?</font> 否
+
+
+??? example "例文："
+
+    ![small_2016_2](./pic/small_2016_2.jpg)
+
+
+
+
+
+#### 杂糅型：2019英二
+
+??? question  "题目："
+
+    Suppose Professor Smith asked you to plan a debate on the theme of city traffic. Write
+    him an email to 1) suggest a specific topic with your reasons, and 2) tell him about
+    your arrangements. <br/>
+    You should write about 100 words on the ANSWER SHEET
+
+??? info "解析："
+
+     <font color = orange>对方是谁?</font> 	Professor Smith <br/>
+        <font color = orange>是不是notice?</font>	不是 <br/>
+        <font color = orange>次要目的是什么?</font>	无 <br/>
+        <font color = orange>主要目的是什么?</font> 	1) suggest a specific topic with your reasons, and 2) tell him about your arrangements <br/>
+        <font color = orange>信件的实质内容涉及三元中的哪些元素?</font> 	 为什么选ta 是什么 <br/>
+        <font color = orange>是否必须需要对方回信?</font> 否
+
+
+??? example "例文："
+
+    ![small_2019_2](./pic/small_2019_2.jpg)
+
+#### 杂糅型：2020英二
+
+??? question  "题目："
+
+    Suppose you are planning a tour of a historical site for a group of international
+    students. Write them an email to 1) tell them about the site, and 2) give them some
+    tips for the tour. <br/>
+    You should write about 100 words on the ANSWER SHEET
+
+??? info "解析："
+
+     <font color = orange>对方是谁?</font> 	international students <br/>
+        <font color = orange>是不是notice?</font>	不是 <br/>
+        <font color = orange>次要目的是什么?</font>	无 <br/>
+        <font color = orange>主要目的是什么?</font> 	1) tell them about the site,  2) give them some tips for the tour <br/>
+        <font color = orange>信件的实质内容涉及三元中的哪些元素?</font> 	 为什么选ta 是什么 <br/>
+        <font color = orange>是否必须需要对方回信?</font> 否
+
+
+??? example "例文："
+
+    ![small_2020_2](./pic/small_2020_2.jpg)
+
+#### 杂糅型：2022英一
+
+??? question  "题目："
+
+    Write an email to a professor at a British university, inviting him/her to organize a
+    team for the international innovation contest to be held at your university. <br/>
+    You should write about 100 words on the ANSWER SHEET
+
+??? info "解析："
+
+     <font color = orange>对方是谁?</font> 	professor <br/>
+        <font color = orange>是不是notice?</font>	不是 <br/>
+        <font color = orange>次要目的是什么?</font>	无 <br/>
+        <font color = orange>主要目的是什么?</font> 	邀请他组队来参加你们学校的竞赛 <br/>
+        <font color = orange>信件的实质内容涉及三元中的哪些元素?</font> 	 为什么选ta 是什么 <br/>
+        <font color = orange>是否必须需要对方回信?</font> 是
+
+
+??? example "例文："
+
+    ![small_2022_1](./pic/small_2022_1.jpg)
+
+#### 杂糅型—投诉信：2012英二
+
+??? question  "题目："
+
+    Suppose you have found something wrong with the electronic dictionary that you
+    bought from an online store the other day. Write an email to the customer service
+    center to 1) make a complaint, and 2) demand a prompt solution. <br/>
+    You should write about 100 words on the ANSWER SHEET
+
+??? info "解析："
+
+     <font color = orange>对方是谁?</font> 	customer service center <br/>
+        <font color = orange>是不是notice?</font>	不是 <br/>
+        <font color = orange>次要目的是什么?</font>	无 <br/>
+        <font color = orange>主要目的是什么?</font> 	1) make a complaint 2) demand a prompt solution <br/>
+        <font color = orange>信件的实质内容涉及三元中的哪些元素?</font> 	 为什么, 怎么办 <br/>
+        <font color = orange>是否必须需要对方回信?</font> 是
+
+
+??? example "例文："
+
+    ![small_2012_2](./pic/small_2012_2.jpg)
 
 
 

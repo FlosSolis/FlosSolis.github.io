@@ -88,7 +88,7 @@ markdown_extensions:
     # Admonitions, also known as call-outs
   - admonition
   - pymdownx.details
-  - pymdownx.superfences # 代码块高亮插件
+  - pymdownx.superfences
     # 列表
   - def_list
   - pymdownx.tasklist:
