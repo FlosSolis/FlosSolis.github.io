@@ -2,6 +2,62 @@
 
 ## 四六级
 
+### 优秀品质技能类
+
+#### 架构
+
+??? note "整体中文架构"
+
+    首段：突出时代背景、明确该品质的重要性、重大影响
+    
+    第二段：通过三个分论点详细分析其正面意义<br>
+       1. ta对个人的积极影响<br/>
+       2. ta对全社会的积极影响<br/>
+       3. 没有ta会带来什么负面影响
+       
+    末段: 总结其重要性,就如何推广这一种品质技能,给出建议<br/>
+
+
+
+#### 处理关系
+
+如何处理关系$\longrightarrow$<font color = red>优秀品质类</font>
+
+??? tip "方法："
+
+    <font color = orange>三板斧：</font>互相理解、互相尊重、互相信任
+    
+    build mutual understanding/respect/trust between A and B
+
+
+
+#### 中文模版
+
+??? example "中文模版"
+
+    ![Level_4_6_ExcellentQuality_chinese](./pic/Level_4_6_ExcellentQuality_chinese.png)
+
+
+
+#### 英文模版
+
+??? example "英文模版"
+
+    ![Level_4_6_ExcellentQuality_English](./pic/Level_4_6_ExcellentQuality_English.png)
+
+
+
+#### 例题
+
+##### 员工雇主相互信任
+
+??? example "例文"
+
+    ![Level_4_6_ExcellentQuality_Trust](./pic/Level_4_6_ExcellentQuality_Trust.png)
+
+<font color= #00BFFF>With the enhancement of general competitiveness in China, people nowadays are increasingly aware of the importance of</font>
+
+
 
 
 ## 考研—小作文
