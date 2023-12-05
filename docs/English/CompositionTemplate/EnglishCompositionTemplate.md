@@ -372,12 +372,35 @@ Dear<font color = red> Xx</font>,
 
 
 
-
-
 ## 考研—大作文
 
-
 ### 材料类作文
+
+#### 中文模版
+
+<font color =red>主线: 描述作者观点一自己对其部分认同一认同的理由一不认同的理由一总结</font>
+
+在以上材料中，作者声称<font color =orange>[作者结论句] </font>。虽然这一论点在某种意义上有可取之处，但是考虑到作者是在一个<font color =#00BFFF>过分简化</font>的基础上得出这样一种<font color =#00BFFF>宽泛</font>的论断的我只能部分同意其观点。  
+
+一方面，虽然作者的观点存在一些问题，但在某些情况下确实<font color =#00BFFF>符合我们的常识或经验</font>。<font color =orange>① (一般品质、事理类) </font>从《奥德赛》到《史记》，从孔子到柏拉图，能例证这一观点的隽永故事与箴言不胜枚举。<font color =orange>② (现代背景类) </font>从日常推送到我手机屏幕上的新闻到微信朋友圈里的日常生活内容，作为一个Z世代人和年轻的数码原住民，我近距离地经历了和见证了太多的可以例证这一观点的事例<font color = orange>③自行发挥举例</font>。
+
+另一方面，我必须指出，作者<font color =#00BFFF>过分简化了</font>事情发生的<font color =#00BFFF>情景和相关变量</font>。考虑到其独特且多样的背景，<font color =orange>人们/事态 </font>未必会按作者所想的那样 <font color =orange>行动/反应/发展</font>。
+
+综上所述，上述话题甚为复杂，因而也并<font color =#00BFFF>不存在一个直白或绝对的答案</font>。在我看来，考虑到这一问题的复杂性，<font color =#00BFFF>具体情况具体分析</font>无疑是更明智的办法
+
+??? note "中文模版"
+
+    <font color =red>主线: 描述作者观点一自己对其部分认同一认同的理由一不认同的理由一总结</font>
+    
+    在以上材料中，作者声称<font color =orange>[作者结论句] </font>。虽然这一论点在某种意义上有可取之处，但是考虑到作者是在一个<font color =#00BFFF>过分简化</font>的基础上得出这样一种<font color =#00BFFF>宽泛</font>的论断的我只能部分同意其观点。  
+    
+    一方面，虽然作者的观点存在一些问题，但在某些情况下确实<font color =#00BFFF>符合我们的常识或经验</font>。<font color =orange>① (一般品质、事理类) </font>从《奥德赛》到《史记》，从孔子到柏拉图，能例证这一观点的隽永故事与箴言不胜枚举。<font color =orange>② (现代背景类) </font>从日常推送到我手机屏幕上的新闻到微信朋友圈里的日常生活内容，作为一个Z世代人和年轻的数码原住民，我近距离地经历了和见证了太多的可以例证这一观点的事例<font color = orange>③自行发挥举例</font>。
+    
+    另一方面，我必须指出，作者<font color =#00BFFF>过分简化了</font>事情发生的<font color =#00BFFF>情景和相关变量</font>。考虑到其独特且多样的背景，<font color =orange>人们/事态 </font>未必会按作者所想的那样 <font color =orange>行动/反应/发展</font>。
+    
+    综上所述，上述话题甚为复杂，因而也并<font color =#00BFFF>不存在一个直白或绝对的答案</font>。在我看来，考虑到这一问题的复杂性，<font color =#00BFFF>具体情况具体分析</font>无疑是更明智的办法
+
+
 
 
 ### 图画类作文
