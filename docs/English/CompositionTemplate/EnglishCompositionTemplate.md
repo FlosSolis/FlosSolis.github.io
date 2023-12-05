@@ -436,10 +436,10 @@
         In the excerpt above, the author generally asserts that <font color = #00BFFF>the right to wander is taken away from children,and this is why technology attracts many of our youth</font>. 
         
     === "根据2009 text 3改编"
-        In the excerpt above, the 
+        In the excerpt above, the author generally asserts that <font color = #00BFFF>the conventional view that one of the very highest priorities for promoting rapid economic development in poor countries should be education is wrong. </font><font color= red size=5>/</font><font color = orange>education should not be one of the very highest priorities for promoting rapid economic development in poor countries.</font> 
         
     === "根据2014 英二 text 1改编"
-        In the excerpt above, the author generally asserts that <font color = #00BFFF>it is far better to spend money on experiences, like interesting trips, unique meals or even going to the cinema</font><font color= red size=5>/</font><font color = orange>it is far better to spend money on experiences than on material purchases</font>.
+        In the excerpt above, the author generally asserts that <font color = #00BFFF>it is far better to spend money on experiences, like interesting trips, unique meals or even going to the cinema.</font><font color= red size=5>/</font><font color = orange>it is far better to spend money on experiences than on material purchases.</font>
 
 
 
