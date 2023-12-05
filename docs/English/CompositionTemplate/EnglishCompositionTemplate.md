@@ -363,7 +363,7 @@ Dear<font color = red> Xx</font>,
 
     ![small_example_essay_2023](./pic/small_example_essay_2023.jpg)
 
-#### 会议纪要：大概率补考
+#### 会议纪要：大概率不考
 
 ??? failure  "说明："
 
