@@ -331,31 +331,28 @@
 
 #### 杂糅型—道歉信 
 
-!!! tip "2018"
+??? tip "2018"
 
     ??? info "解析："
         ![small_2018](./pic/small_2018.jpg)
     
-    **英一**
-    ??? question  "题目："
+    === "英一"
+        ??? question  "题目："
     
-        You have just come back from Canada and found a music CD in yourluggage that you forgot to return to Bob, your landlord there. Write him a letter to 1) make a apology, and 2) suggest a solution.<br/>
-        You should write about 100 words on the ANSWER SHEET
+            You have just come back from Canada and found a music CD in yourluggage that you forgot to return to Bob, your landlord there. Write him a letter to 1) make a apology, and 2) suggest a solution.<br/>
+            You should write about 100 words on the ANSWER SHEET
     
-    ??? example "例文："
+        ??? example "例文："
+            ![small_2018_1](./pic/small_2018_1.jpg)
     
-        ![small_2018_1](./pic/small_2018_1.jpg)
+    === "英二"
+        ??? question  "题目："
     
-    **英二**
-    ??? question  "题目："
+            Suppose you have to cancel your travel plan and will not be able to visit Professor Smith. Write him an email to 1) apologize and explain the situation, and 2) suggest a future meeting. <br/>
+            You should write about 100 words on the ANSWER SHEET
     
-        Suppose you have to cancel your travel plan and will not be able to visit Professor 
-        Smith. Write him an email to 1) apologize and explain the situation, and 2) suggest
-        a future meeting. <br/>
-        You should write about 100 words on the ANSWER SHEET
-    
-    ??? example "例文："
-        ![small_2018_2](./pic/small_2018_2.jpg)
+        ??? example "例文："
+            ![small_2018_2](./pic/small_2018_2.jpg)
 
 
 ​    
@@ -417,23 +414,32 @@
 
 ??? question "例题"
 
-    === "英一"
-    
+    === "2023 大纲模拟题 英一"
         ![material_composition_2023_1](./pic/material_composition_2023_1.jpg)
     
-    === "英二"
-    
+    === "2023 大纲模拟题 英二"
         ![material_composition_2023_2](./pic/material_composition_2023_2.jpg)
+        
+    === "模拟题 根据2009 text 3改编"
+        ![material_composition_2009_3](./pic/material_composition_2009_3.jpg)
+        
+    === "模拟题 根据2014 英二 text 1改编"
+        ![material_composition_2014_2_1](./pic/material_composition_2014_2_1.jpg)
+
 
 ??? example "作者结论句："
 
-    === "英一"
-    
+    === "2023 大纲模拟题 英一"
         In the excerpt above,  the author generally asserts that <font color = #00bfff>failure in "expertise" can be compensated by higher integrity and benevolence</font>.
     
-    === "英二"
-    
+    === "2023 大纲模拟题 英二"
         In the excerpt above, the author generally asserts that <font color = #00BFFF>the right to wander is taken away from children,and this is why technology attracts many of our youth</font>. 
+        
+    === "根据2009 text 3改编"
+        In the excerpt above, the 
+        
+    === "根据2014 英二 text 1改编"
+        In the excerpt above, the author generally asserts that <font color = #00BFFF>it is far better to spend money on experiences, like interesting trips, unique meals or even going to the cinema</font><font color= red size=5>/</font><font color = orange>it is far better to spend money on experiences than on material purchases</font>.
 
 
 
