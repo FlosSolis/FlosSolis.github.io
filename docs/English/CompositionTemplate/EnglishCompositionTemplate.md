@@ -28,7 +28,7 @@
        做某事
 
 ### 尾段—表达对读信人的期望：
-??? note "短尾"
+??? note "尾段"
 
     按是否需要对方回信分为以下两种（部分题目回不回信都可以）
     
@@ -405,7 +405,11 @@
 ??? example "英文模版："
 
     In the excerpt above, the author generally asserts that 作者结论句. While this argument does have some merit in a way, considering that the author comes to this broad assertion on an oversimplified basis, I can only partially agree with his opinion.
-
+    
+    On the one hand, i would like to admit that the author's statement, although suffering from certain flaws, is sensible some cases, where the implicit rationale behind it accords with the common sense and empirical evidence in our daily life.<font color =orange>①(一般品质、事理类)</font> From the Odyssey to the Historical Records, from Confucius to Plato, instructive stories and thought-provoking proverbs that could exemplify this perspective are too numerous to count.<font color =orange>② (现代背景类)</font>From the news stories pushed to my screen to the daily lives posted on the WeChat Moments, as a Generation Z and young digital native, I have intimately experienced and witnessed numerous cases that could exemplify this perspective. <font color = orange>③自行发挥举例</font>
+    
+    On the other hand, l am bound to point out that the author oversimplifies the context and relevant variables. Given their distinctive and diverse background, it is not surprising to discover that <font color= orange>people/the course of events</font> may not necessarily <font color =orange>act/react/develop</font> in accordance with the author's presumption.
+    In conclusion, the issue mentioned above is a complex one. and there are no simple or absolute answers to it. From my perspective, given its complicated nature, it is certainly more advisable to take a case-by-case approach.
 
 
 
