@@ -329,7 +329,7 @@
 
     ![small_2012_2](./pic/small_2012_2.jpg)
 
-#### 杂糅型—道歉信
+#### 杂糅型—道歉信 
 
 !!! tip "2018"
 
@@ -411,7 +411,30 @@
     On the other hand, l am bound to point out that the author oversimplifies the context and relevant variables. Given their distinctive and diverse background, it is not surprising to discover that <font color= orange>people/the course of events</font> may not necessarily <font color =orange>act/react/develop</font> in accordance with the author's presumption.
     In conclusion, the issue mentioned above is a complex one. and there are no simple or absolute answers to it. From my perspective, given its complicated nature, it is certainly more advisable to take a case-by-case approach.
 
-### 作者结论句总结
+#### 作者结论句总结
+
+#### 例文
+
+??? question "例题"
+
+    === "英一"
+    
+        ![material_composition_2023_1](./pic/material_composition_2023_1.jpg)
+    
+    === "英二"
+    
+        ![material_composition_2023_2](./pic/material_composition_2023_2.jpg)
+
+??? example "作者结论句："
+
+    === "英一"
+    
+        In the excerpt above,  the author generally asserts that <font color = #00bfff>failure in "expertise" can be compensated by higher integrity and benevolence</font>.
+    
+    === "英二"
+    
+        In the excerpt above, the author generally asserts that <font color = #00BFFF>the right to wander is taken away from children,and this is why technology attracts many of our youth</font>. 
+
 
 
 

@@ -26,6 +26,7 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+    - content.tabs.link
   language: zh
 
 
@@ -74,7 +75,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-  - pymdownx.arithmatex: # latex支持
+  # latex支持
+  - pymdownx.arithmatex:
       generic: true
   - attr_list # 给图片后面添加{width="300"}设置大小
   - toc:
@@ -89,6 +91,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
     # 列表
   - def_list
   - pymdownx.tasklist:
