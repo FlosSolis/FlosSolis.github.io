@@ -386,7 +386,7 @@
 
 #### 中文模版
 
-??? note "中文模版"
+??? example "中文模版"
 
     <font color =red>主线: 描述作者观点一自己对其部分认同一认同的理由一不认同的理由一总结</font>
     
@@ -397,6 +397,14 @@
     另一方面，我必须指出，作者<font color =#00BFFF>过分简化了</font>事情发生的<font color =#00BFFF>情景和相关变量</font>。考虑到其独特且多样的背景，<font color =orange>人们/事态 </font>未必会按作者所想的那样 <font color =orange>行动/反应/发展</font>。
     
     综上所述，上述话题甚为复杂，因而也并<font color =#00BFFF>不存在一个直白或绝对的答案</font>。在我看来，考虑到这一问题的复杂性，<font color =#00BFFF>具体情况具体分析</font>无疑是更明智的办法
+
+
+
+#### 英文模版
+
+??? example "英文模版："
+
+    In the excerpt above, the author generally asserts that 作者结论句. While this argument does have some merit in a way, considering that the author comes to this broad assertion on an oversimplified basis, I can only partially agree with his opinion.
 
 
 
