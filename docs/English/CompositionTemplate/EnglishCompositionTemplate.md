@@ -55,7 +55,7 @@
 
 ### 第二段—主体段
 
-#### 整体架构:
+#### 整体架构
 
 ??? note "整体架构："
 
@@ -65,7 +65,7 @@
     In addition, 论点3.<br/>
     For more details, you could refer to the attachment below. （28 词）
 
-#### 具体论点:
+#### 具体论点
 
 三元：是什么（说明介绍）、为什么（原因利弊）、怎么办（建议意见）
 
@@ -329,7 +329,7 @@
 
     ![small_2012_2](./pic/small_2012_2.jpg)
 
-#### 杂糅型—道歉信：
+#### 杂糅型—道歉信
 
 !!! tip "2018"
 
@@ -410,6 +410,8 @@
     
     On the other hand, l am bound to point out that the author oversimplifies the context and relevant variables. Given their distinctive and diverse background, it is not surprising to discover that <font color= orange>people/the course of events</font> may not necessarily <font color =orange>act/react/develop</font> in accordance with the author's presumption.
     In conclusion, the issue mentioned above is a complex one. and there are no simple or absolute answers to it. From my perspective, given its complicated nature, it is certainly more advisable to take a case-by-case approach.
+
+### 作者结论句总结
 
 
 
