@@ -1,4 +1,4 @@
-# 四六级作文模版
+# 四六级作文
 
 笔记源教程：[考研英语Monkey全心全意班](https://www.cctalk.com/m/group/90519927)
 
