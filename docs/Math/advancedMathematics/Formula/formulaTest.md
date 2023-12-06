@@ -161,7 +161,7 @@ $\arcsin{x}$
 
 $\arccos{x}$ 
 
-$  \arctan{x}$
+$\arctan{x}$
 
 ${\mathrm{arccot} {x}}$  
 

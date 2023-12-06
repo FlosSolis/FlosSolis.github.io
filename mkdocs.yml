@@ -1,8 +1,10 @@
 site_name: Flos Solis
 theme: 
   name: material
+  custom_dir: overrides
   icon:
     logo: material/library
+    admonition:
   palette:
     - scheme: slate # 夜间模式
       primary: indigo
@@ -24,6 +26,7 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+    - content.tabs.link
   language: zh
 
 
@@ -50,42 +53,74 @@ nav:
     - MySQL:
       - mysql笔记: CS/MySQL/mysqlFrank.md
   - 英语学习笔记:
+    - English/index.md
     - 英语作文:
-      - English/CompositionTemplate/EnglishCompositionTemplate.md
+      - English/index.md
+      - 英语作文模版:
+        - English/CompositionTemplate/CET.md
+        - English/CompositionTemplate/PostgraduateEntranceExaminationShortEssay.md
+        - English/CompositionTemplate/PostgraduateEntranceExaminationLongEssay.md
+  - TEST:
+    - TEST/test-material.md
 
 
 # [Extensions]
 plugins:
-  - search: # 现在还不支持中文搜索 支持之后可以设置语言
-    # insider已经支持中文的分词搜索了 https://squidfunk.github.io/mkdocs-material/blog/2022/chinese-search-support/
-      lang:
+  - search: # 搜索 
+      lang:  #还不懂这个lang是干嘛的
         - en
         - ja
-  - tags # 给单篇文章添加标签 https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/?h=tags
+  - tags # 给单篇文章添加标签
+    
 markdown_extensions:
-  - pymdownx.arithmatex: # latex支持
+  # 一些扩展格式
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  # latex支持
+  - pymdownx.arithmatex:
       generic: true
   - attr_list # 给图片后面添加{width="300"}设置大小
   - toc:
       permalink: true # 固定标题位置为当前位置
   - pymdownx.highlight: # 代码块高亮
-      # linenums: true # 显示行号
+      linenums: true # 显示行号
       # auto_title: true # 显示编程语言名称
-  - pymdownx.superfences # 代码块高亮插件
+      anchor_linenums: true
+      pygments_lang_class: true
   - meta # 支持Markdown文件上方自定义标题标签等
-  - admonition # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
-  - pymdownx.details # admonition需要
-
+    # Admonitions, also known as call-outs
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+    # 列表
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  # 图标
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.snippets: # 术语拓展
+  - pymdownx.inlinehilite
+  - abbr # 工具提示
+  
 extra_javascript:
   # latex支持
-  # check https://squidfunk.github.io/mkdocs-material/reference/mathjax/?h=math for more information
-  # notice `curl https://polyfill.io/v3/polyfill.min.js?features=es6 > docs/mkdocs/javascripts/polyfill.min.js && curl https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js > docs/mkdocs/javascripts/tex-mml-chtml.js` not works... because there are other resources that need to load
   - mkdocs/javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js # https://cdn.bytedance.com/?query=mathjax&version=3.2.0
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
-  - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
+  - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbolsa
+  - mkdocs/css/extra.css
 extra:
   homepage: https://flossolis.github.io/
   social: # icons

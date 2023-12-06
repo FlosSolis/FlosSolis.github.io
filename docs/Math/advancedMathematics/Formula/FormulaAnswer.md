@@ -56,14 +56,10 @@ $y=\sec x$
 
 $y=\csc x$
 
-上述函数的对称轴、对称中心、图像
+??? abstract "上述函数图像"
 
-<details>
-    <summary>上述函数的图像</summary>
-    <p>
-        <img src= "./FormulaAnswer/TrigonometricFunction.jpg" >
-    </p>
-</details>
+    ![TrigonometricFunction](./FormulaAnswer/TrigonometricFunction.jpg)
+
 
 
 
@@ -162,20 +158,18 @@ $\tan\alpha = \frac{2\tan\frac{a}{2}}{1-\tan^2\frac{a}{2}}$
 
 ## 反三角函数
 
-$\arcsin{x} $
+$\arcsin{x}$
 
 $\arccos{x}$ 
 
-$  \arctan{x}$
+$\arctan{x}$
 
 ${\mathrm{arccot} {x}}$  
 
-<details>
-    <summary>所有反三角函数的定义域、值域、图像：</summary> 
-    <p>
-        <img src=" ./FormulaAnswer/InverseTrigonometricFunction.jpg">
-    </p>
-</details>
+??? abstract "上述反三角函数的定义域、值域、图像："
+
+       ![InverseTrigonometricFunction](./FormulaAnswer/InverseTrigonometricFunction.jpg)
+
 
 
 
