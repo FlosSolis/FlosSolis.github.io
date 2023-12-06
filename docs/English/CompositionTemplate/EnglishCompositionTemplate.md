@@ -152,7 +152,30 @@
 
 
 
+#### 英文模版
 
+??? example "英文模版"
+
+    ![Level_4_6_Chart_EnglishTemplate_1](./pic/Level_4_6_Chart_EnglishTemplate_1.png)
+    ![Level_4_6_Chart_EnglishTemplate_2](./pic/Level_4_6_Chart_EnglishTemplate_2.png)
+
+### 例题—2021年6月6级
+
+??? question "题目"
+
+    === " China's achievements in higher education"
+        ![Level_4_6_Chart_Question_2021_6_6_1](./pic/Level_4_6_Chart_Question_2021_6_6_1.png)
+        
+    === "China's achievements in poverty alleviation"
+        ![Level_4_6_Chart_Question_2021_6_6_2](./pic/Level_4_6_Chart_Question_2021_6_6_2.png)
+
+??? example "例文"
+
+    === " China's achievements in higher education"
+        ![Level_4_6_Chart_Answer_2021_6_6_1](./pic/Level_4_6_Chart_Answer_2021_6_6_1.png)
+        
+    === "China's achievements in poverty alleviation"
+        ![Level_4_6_Chart_Answer_2021_6_6_2](./pic/Level_4_6_Chart_Answer_2021_6_6_2.png)
 
 
 
