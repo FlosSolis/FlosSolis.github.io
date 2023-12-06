@@ -58,8 +58,8 @@ nav:
       - English/index.md
       - 英语作文模版:
         - English/CompositionTemplate/CET.md
-        - English/CompositionTemplate/PostgraduateEntranceExaminationEssay.md
-        - English/CompositionTemplate/EnglishCompositionTemplate.md
+        - English/CompositionTemplate/PostgraduateEntranceExaminationShortEssay.md
+        - English/CompositionTemplate/PostgraduateEntranceExaminationLongEssay.md
   - TEST:
     - TEST/test-material.md
 
