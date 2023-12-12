@@ -31,11 +31,23 @@
 
 ??? example "英文模版"
 
-    ![Level_4_6_ExcellentQuality_English](./pic/Level_4_6_ExcellentQuality_English.png)
+    ![Level_4_6_ExcellentQuality_English_1](./pic/Level_4_6_ExcellentQuality_English_1.png)  
+    ![Level_4_6_ExcellentQuality_English_2](./pic/Level_4_6_ExcellentQuality_English_2.png)  
+    ![Level_4_6_ExcellentQuality_English_3](./pic/Level_4_6_ExcellentQuality_English_3.png)
 
 
 
 ### 例题
+
+#### 写作能力的重要性
+
+??? example "例文"
+
+    ![Level_4_6_ExcellentQuality_Trust](./pic/Level_4_6_ExcellentQuality_WriteAbility.png)
+
+
+
+
 
 #### 员工雇主相互信任
 
