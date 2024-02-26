@@ -48,6 +48,7 @@ nav:
       - 公式: 
         - Math/advancedMathematics/Formula/FormulaAnswer.md
         - Math/advancedMathematics/Formula/formulaTest.md
+        - Math/advancedMathematics/Formula/ErrorLog.md
   - CS学习笔记:
     - CS/index.md
     - MySQL:
