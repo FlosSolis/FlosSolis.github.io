@@ -227,7 +227,7 @@ $\int{\sec^3{x}dx} = \frac{1}{2}(\sec{x}\tan{x}+\ln|\sec{x}+\tan{x}|)$
 
 ## 麦克劳林公式
 
-$\sin x = x - \frac{1}{6}x^3 + o(x^3) = x - \frac{1}{3!}x^3 + \frac{1}{5!}x^5 + o(x^5) = \sum\limits_{n=1}^{\infty}(-1)^{n-1}\frac{x^{2n-1}}{(2n-1)!}$
+$\sin x = x - \frac{1}{6}x^3 + o(x^3) = x - \frac{1}{3!}x^3 + \frac{1}{5!}x^5 + o(x^5) = \sum\limits_{n=0}^{\infty}(-1)^{n}\frac{x^{2n+1}}{(2n+1)!}$
 
 $\arcsin x = x + \frac{1}{6}x^3 + o(x^3) = \sum\limits_{n=0}^{\infty}\frac{(2n-1)!!}{(2n)!!}\cdot\frac{x^{2n+1}}{2n+1}$
 
@@ -235,17 +235,17 @@ $\tan x = x + \frac{1}{3}x^3 + o(x^3) = \sum\limits_{n=1}^{\infty}\frac{(2^{2n}-
 
 $\arctan x = x - \frac{1}{3}x^3 + o(x^3)$
 
-$\cos x = 1 - \frac{1}{2}x^2 + \frac{1}{24}x^4 + o(x^4) + ...+(-1)^{n}\frac{x^{2n}}{（2n）!}= \sum\limits_{n=1}^{\infty}(-1)^{n-1}\frac{x^{2n-1}}{(2n-1)!}$
+$\cos x = 1 - \frac{1}{2}x^2 + \frac{1}{24}x^4 + o(x^4) + ...+(-1)^{n}\frac{x^{2n}}{（2n）!}= \sum\limits_{n=0}^{\infty}(-1)^{n}\frac{x^{2n}}{(2n)!}$
 
 $\ln(1+x) = x - \frac{1}{2}x^2 + \frac{1}{3}x^3 + o(x^3) = \sum\limits_{n=1}^{\infty}(-1)^{n-1}\frac{x^n}{n}$
 
-$e^x = 1+ x + \frac{1}{2}x^2 + \frac{1}{6}x^3 + o(x^3) = \sum\limits_{n=1}^{\infty}\frac{x^n}{n!}$
+$e^x = 1+ x + \frac{1}{2}x^2 + \frac{1}{6}x^3 + o(x^3) = \sum\limits_{n=0}^{\infty}\frac{x^n}{n!}$
 
-$(1+x)^a = 1 + ax + \frac{a(a-1)}{2}x^2 + o(x^2) = \sum\limits_{n=1}^{\infty}\frac{a(a-1)\cdot\cdot\cdot(a-n+1)}{n!}x^n$
+$(1+x)^a = 1 + ax + \frac{a(a-1)}{2}x^2 + o(x^2) =1 + \sum\limits_{n=1}^{\infty}\frac{a(a-1)\cdot\cdot\cdot(a-n+1)}{n!}x^n$
 
-$\frac{1}{1+x} = 1 - x + x^2 - x^3 + o(x^3) = \sum\limits_{n=1}^{\infty}(-1)^nx^n$
+$\frac{1}{1+x} = 1 - x + x^2 - x^3 + o(x^3) = \sum\limits_{n=0}^{\infty}{(-1)^n}{x^n}$
 
-$\frac{1}{1-x} = 1 + x + x^2 + x^3 + o(x^3) = \sum\limits_{n=1}^{\infty}x^n$
+$\frac{1}{1-x} = 1 + x + x^2 + x^3 + o(x^3) = \sum\limits_{n=0}^{\infty}x^n$
 
 $\sqrt{1+x} = 1 + \frac{1}{2}x - \frac{1}{2 \cdot 4}x^2 + \frac{1 \cdot 3}{2 \cdot 4 \cdot 6}x^3 - \frac{1 \cdot 3 \cdot 5}{2 \cdot 4 \cdot 6 \cdot 8}x^4 + o(x^4)$
 

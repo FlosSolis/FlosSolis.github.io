@@ -31,8 +31,8 @@
 
 ??? example "英文模版"
 
-    ![Level_4_6_ExcellentQuality_English_1](./pic/Level_4_6_ExcellentQuality_English_1.png)  
-    ![Level_4_6_ExcellentQuality_English_2](./pic/Level_4_6_ExcellentQuality_English_2.png)  
+    ![Level_4_6_ExcellentQuality_English_1](./pic/Level_4_6_ExcellentQuality_English_1.png)
+    ![Level_4_6_ExcellentQuality_English_2](./pic/Level_4_6_ExcellentQuality_English_2.png)
     ![Level_4_6_ExcellentQuality_English_3](./pic/Level_4_6_ExcellentQuality_English_3.png)
 
 
