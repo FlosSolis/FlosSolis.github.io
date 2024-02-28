@@ -49,6 +49,7 @@ nav:
         - Math/advancedMathematics/Formula/FormulaAnswer.md
         - Math/advancedMathematics/Formula/formulaTest.md
         - Math/advancedMathematics/Formula/ErrorLog.md
+      - 139错题记录: Math/advancedMathematics/Calculations/139WrongQuestions.md
   - CS学习笔记:
     - CS/index.md
     - MySQL:
@@ -74,6 +75,8 @@ plugins:
   - tags # 给单篇文章添加标签
     
 markdown_extensions:
+  # 表格
+  - tables
   # 一些扩展格式
   - pymdownx.critic
   - pymdownx.caret
