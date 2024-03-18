@@ -113,5 +113,31 @@
     `B2`<br>![Question_139高数_1.9_B_2](./pic/Question_139高数_1.9_B_2.png)<br>
     `B3`<br>![Question_139高数_1.9_B_3](./pic/Question_139高数_1.9_B_3.png)
 
+### 考法10 利用定积分定义求极限
 
+| 错题                                           | 错因           |
+| ---------------------------------------------- | -------------- |
+| [`A组 4`](./pic/Question_139高数_1.10_A_4.png) | 积分公式没记熟 |
+| [`A组 6`](./pic/Question_139高数_1.10_A_6.png) | 定积分算错了   |
+| [`A组 7`](./pic/Question_139高数_1.10_A_7.png) | 没思路         |
+| [`A组 8`](./pic/Question_139高数_1.10_A_8.png) | 定积分算错了   |
+| [`B组 3`](./pic/Question_139高数_1.10_B_3.png) | 没思路         |
+| [`B组 6`](./pic/Question_139高数_1.10_B_6.png) | 没思路         |
+
+
+
+??? question "错题"
+
+    `A4`![`A组 4`](./pic/Question_139高数_1.10_A_4.png)<br>
+    `A6`<br>![`A组 6`](./pic/Question_139高数_1.10_A_6.png)<br>
+    `A7`<br>![`A组 7`](./pic/Question_139高数_1.10_A_7.png)<br>
+    `A8`<br>![`A组 8`](./pic/Question_139高数_1.10_A_8.png)<br>
+    `B3`<br>![`B组 3`](./pic/Question_139高数_1.10_B_3.png)<br>
+    `B6`<br>![`B组 6`](./pic/Question_139高数_1.10_B_6.png)
+
+??? note "知识点"
+
+    $\int_{a}^{b}f(x)=\lim\limits_{x\to∞}\sum_{i=1}^{n}f(a+\frac{b-a}{n}i)\frac{b-a}{n}$，当$a=0,b=1$时，有$\int_{0}^{1}f(x){\mathrm{d} x}=\lim\limits_{0\to\infty}f(\frac{i}{n})\frac{1}{n}=\lim\limits_{0\to\infty}{\frac{1}{n}}[f(\frac{1}{n})+f(\frac{2}{n})+{\ldots}+f(\frac{n}{n})]$
+
+$\int_{a}^{b}f(x)=\lim\limits_{x\to∞}\sum_{i=1}^{n}f(a+\frac{b-a}{n}i)\frac{b-a}{n}$，当$a=0,b=1$时，有$\int_{0}^{1}f(x){\mathrm{d} x}=\lim\limits_{0\to\infty}f(\frac{i}{n})\frac{1}{n}=\lim\limits_{0\to\infty}{\frac{1}{n}}[f(\frac{1}{n})+f(\frac{2}{n})+{\ldots}+f(\frac{n}{n})]$
 
