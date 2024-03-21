@@ -50,7 +50,7 @@ nav:
         - Math/advancedMathematics/Formula/formulaTest.md
         - Math/advancedMathematics/Formula/ErrorLog.md
       - 139错题记录: Math/advancedMathematics/Calculations/139WrongQuestions.md
-    - LaTeX 常用符号整理: - Math/other/latex.md
+    - LaTeX 常用符号整理: Math/other/latex.md
   - CS学习笔记:
     - CS/index.md
     - MySQL:
