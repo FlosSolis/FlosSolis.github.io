@@ -55,6 +55,8 @@ nav:
     - CS/index.md
     - MySQL:
       - mysql笔记: CS/MySQL/mysqlFrank.md
+    - DS:
+      - 排序: CS/DS/sort.md
   - 英语学习笔记:
     - English/index.md
     - 英语作文:
