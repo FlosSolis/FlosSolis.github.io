@@ -273,3 +273,15 @@ $\tan{x} - \sin{x} \sim$
 $\arctan{x} - \arcsin{x} \sim$
 
 > 注意：$f(x) \pm g(x) = cx^k + o(x^k)$ ，而 $f(x) \pm g(x) \sim$ 。
+
+## 高阶导数
+
+$[\sin(ax+b)]^{(n)}=$
+
+$[\cos(ax+b)]^{(n)}=$
+
+$[\ln(ax+b)]^{(n)}=$
+
+$(\frac{1}{ax+b})^{(n)}=$
+
+$(e^{ax+b})^{(n)}=$
