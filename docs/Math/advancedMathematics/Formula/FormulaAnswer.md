@@ -276,3 +276,18 @@ $\tan{x} - \sin{x} \sim \frac{1}{2}x^3$
 $\arctan{x} - \arcsin{x} \sim -\frac{1}{2}x^3$
 
 > 注意：$f(x) \pm g(x) = cx^k + o(x^k)$ ，而 $f(x) \pm g(x) \sim cx^k$ 。
+
+
+
+## 高阶导数
+
+$[\sin(ax+b)]^{(n)}={a^n}sin(ax+b+\frac{n\pi}{2})$
+
+$[\cos(ax+b)]^{(n)}={a^n}cos(ax+b+\frac{n\pi}{2})$
+
+$[\ln(ax+b)]^{(n)}=(-1)^{n-1}a^{n}\frac{(n-1)!}{(ax+b)^n}$
+
+$(\frac{1}{ax+b})^{(n)}=(-1)^n a^n \frac{n!}{(ax+b)^{n+1}}$
+
+$(e^{ax+b})^{(n)}= a^n e^{ax+b}$
+
