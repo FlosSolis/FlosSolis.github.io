@@ -448,9 +448,33 @@
 
 
 
+### 考法8 高阶导数的求法
 
+| 错题                                            | 错因                   |
+| ----------------------------------------------- | ---------------------- |
+| [`A组 1`](./pic/Question_139高数_2.8_A_1.png)   | 计算错误               |
+| [`A组 3`](./pic/Question_139高数_2.8_A_3.png)   | 方法错误               |
+| [`B组 1`](./pic/Question_139高数_2.8_B_1.png)   | 没思路                 |
+| [`B组 3`](./pic/Question_139高数_2.8_B_3.png)   | 计算错误               |
+| [`B组 4`](./pic/Question_139高数_2.8_B_4.png)   | 没思路                 |
+| [`B组 5`](./pic/Question_139高数_2.8_B_5.png)   | $\arctan{x}的泰勒展开$ |
+| [`B组 6`](./pic/Question_139高数_2.8_B_6.png)   | 没思路                 |
+| [`B组 7`](./pic/Question_139高数_2.8_B_7.png)   | 计算错误               |
+| [`B组 9`](./pic/Question_139高数_2.8_B_9.png)   | 没思路                 |
+| [`B组 10`](./pic/Question_139高数_2.8_B_10.png) | 算错了                 |
 
+??? question "错题"
 
+    `A组 1`<br>![`A组 1`](./pic/Question_139高数_2.8_A_1.png)<br>
+    `A组 3`<br>![`A组 3`](./pic/Question_139高数_2.8_A_3.png)<br>
+    `B组 1`<br>![`B组 1`](./pic/Question_139高数_2.8_B_1.png)<br>
+    `B组 3`<br>![`B组 3`](./pic/Question_139高数_2.8_B_3.png)<br>
+    `B组 4`<br>![`B组 4`](./pic/Question_139高数_2.8_B_4.png)<br>
+    `B组 5`<br>![`B组 5`](./pic/Question_139高数_2.8_B_5.png)<br>
+    `B组 6`<br>![`B组 6`](./pic/Question_139高数_2.8_B_6.png)<br>
+    `B组 7`<br>![`B组 7`](./pic/Question_139高数_2.8_B_7.png)<br>
+    `B组 9`<br>![`B组 9`](./pic/Question_139高数_2.8_B_9.png)<br>
+    `B组 10`<br>![`B组 10`](./pic/Question_139高数_2.8_B_10.png)<br>
 
 
 
