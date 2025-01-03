@@ -1,4 +1,4 @@
 currentdate=$(date +%Y-%m-%d_%H:%M:%S)
 git add .
-git commit -m $currentdate"iPhone 12 Pro "
+git commit -m $currentdate" iPad Air 3 "
 git push myblog master --force
