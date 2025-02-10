@@ -36,6 +36,7 @@ nav:
     - ESSAY/index.md
     - 日记:
       - ESSAY/Log/2501.md
+      - ESSAY/Log/2502.md
   - CS:
     - CS/index.md
     - LaTeX: CS/latex.md
