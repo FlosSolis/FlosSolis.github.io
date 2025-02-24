@@ -45,6 +45,9 @@ nav:
     - DS:
        - 排序: CS/DS/sort.md
     - 网站测试: CS/Test/test.md
+  - 健身:
+    - Fitness/index.md
+    - 新手阶段: Fitness/nood.md
 #  - 英语学习笔记:
 #    - English/index.md
 #    - 英语作文:
