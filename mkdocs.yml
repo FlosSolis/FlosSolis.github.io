@@ -48,6 +48,9 @@ nav:
   - 健身:
     - Fitness/index.md
     - 新手阶段: Fitness/nood.md
+  - 学业:
+    - Study/index.md
+    - 基础公式: Study/Math/advancedMathematics/Formula/FormulaAnswer.md  
 #  - 英语学习笔记:
 #    - English/index.md
 #    - 英语作文:
